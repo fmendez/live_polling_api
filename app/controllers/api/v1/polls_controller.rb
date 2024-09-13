@@ -36,6 +36,6 @@ class Api::V1::PollsController < ApplicationController
   private
 
   def poll_params
-    params.require(:poll).permit(:title, :description, :end_date, options_attributes: [:content])
+    params.require(:poll).permit(:title, :description, :end_date, options_attributes: [:id, :content, :_destroy])
   end
 end

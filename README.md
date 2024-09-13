@@ -1,24 +1,6 @@
-# README
+# Rails - Remix - Live Poll Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+https://user-images.githubusercontent.com/fmendez/live-polling-rails-remix-demo/live-polling-rails-remix-demo.mp4
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is the code along with the tutorial from: www.fmendez.com/posts/remix-rails-live-polling-system 
